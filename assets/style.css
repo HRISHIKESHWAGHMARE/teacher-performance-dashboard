@@ -1,0 +1,51 @@
+/* Global font and background */
+html, body, [class*="css"]{
+    font-family: "Segoe UI", Arial,sans-serif;
+    background-color: #f7f9fc;
+}
+
+/* Page Title */
+h1, h2, h3  {color: #1f2933; font-weight: 600;
+}
+
+/* KPI CARDS */
+div[data-testid = "metric-container"]{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0px 2px 6px rgb(0,0,0,0.05);
+}
+
+/* sidebar */
+section[data-testid = "stSidebar"]{
+    background-color: #111827;
+}
+section[data-testid = "stSidebar"]*{
+    color: white;
+}
+
+/* Tables */
+thead tr th {
+    background-color: #2563eb !important;
+    color : white !important;
+    text-align: center;
+}
+
+tbody tr td{
+    text-align: center;
+}
+
+/* Buttons  */
+
+button[kind="primary"]{
+    background-color: #2563eb;
+    border-radius: 6px;
+}
+
+/* Progress bar */
+div[role = "progressbar"]{
+    background-color: #e5e7eb;
+}
+
+
+

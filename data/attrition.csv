@@ -1,0 +1,1001 @@
+teacher_id,attrition_score,reason
+T077,2.6,Relocation
+T004,4.5,Contract ended
+T092,2.9,Higher studies
+T028,4.2,Health reasons
+T025,2.0,Relocation
+T113,3.7,Higher studies
+T122,4.9,Relocation
+T038,4.7,Personal reasons
+T185,3.4,Looking for new job
+T146,2.6,Higher studies
+T076,4.9,Higher studies
+T161,3.7,Contract ended
+T062,2.6,Looking for new job
+T041,2.2,Looking for new job
+T080,4.4,Relocation
+T096,3.7,Health reasons
+T031,1.6,Looking for new job
+T017,4.8,Contract ended
+T193,1.9,Looking for new job
+T139,1.5,Looking for new job
+T092,1.7,Looking for new job
+T082,2.6,Looking for new job
+T174,1.3,Higher studies
+T143,2.6,Higher studies
+T194,3.1,Personal reasons
+T002,3.2,Relocation
+T104,3.1,Relocation
+T062,4.0,Contract ended
+T168,1.4,Looking for new job
+T194,4.1,Health reasons
+T068,2.3,Contract ended
+T092,4.8,Higher studies
+T108,2.7,Looking for new job
+T176,2.9,Looking for new job
+T008,3.8,Looking for new job
+T002,4.5,Health reasons
+T003,4.4,Contract ended
+T185,1.2,Contract ended
+T080,3.8,Higher studies
+T166,4.2,Looking for new job
+T052,4.5,Higher studies
+T087,3.2,Personal reasons
+T015,3.2,Looking for new job
+T164,3.0,Personal reasons
+T035,3.4,Looking for new job
+T026,1.9,Personal reasons
+T111,4.4,Contract ended
+T172,3.3,Higher studies
+T165,4.1,Relocation
+T166,3.9,Personal reasons
+T171,1.1,Health reasons
+T144,1.9,Contract ended
+T064,3.3,Relocation
+T105,2.7,Personal reasons
+T029,3.0,Looking for new job
+T032,2.0,Personal reasons
+T024,3.9,Higher studies
+T200,3.8,Personal reasons
+T150,2.8,Looking for new job
+T170,4.7,Looking for new job
+T066,4.9,Relocation
+T070,1.5,Relocation
+T114,4.9,Higher studies
+T020,4.5,Personal reasons
+T198,2.5,Personal reasons
+T189,4.2,Looking for new job
+T034,4.6,Higher studies
+T107,2.9,Looking for new job
+T184,2.0,Personal reasons
+T079,3.7,Personal reasons
+T054,1.3,Higher studies
+T091,2.6,Personal reasons
+T167,2.6,Relocation
+T104,3.8,Personal reasons
+T185,4.7,Relocation
+T119,4.4,Higher studies
+T174,2.2,Personal reasons
+T035,2.4,Health reasons
+T102,3.8,Looking for new job
+T180,3.9,Contract ended
+T096,4.0,Relocation
+T050,2.8,Looking for new job
+T144,3.4,Health reasons
+T168,5.0,Relocation
+T141,3.0,Personal reasons
+T114,2.1,Higher studies
+T001,1.2,Personal reasons
+T037,2.1,Looking for new job
+T173,4.2,Looking for new job
+T121,2.4,Higher studies
+T007,1.4,Health reasons
+T117,2.2,Looking for new job
+T015,3.2,Looking for new job
+T014,4.0,Relocation
+T095,3.6,Personal reasons
+T191,2.2,Higher studies
+T172,4.9,Personal reasons
+T191,2.0,Health reasons
+T055,4.3,Higher studies
+T118,3.8,Personal reasons
+T123,2.9,Looking for new job
+T047,1.7,Higher studies
+T084,1.8,Higher studies
+T036,4.0,Personal reasons
+T200,4.0,Relocation
+T043,4.7,Contract ended
+T026,1.1,Contract ended
+T015,2.0,Health reasons
+T047,4.4,Higher studies
+T136,1.1,Relocation
+T052,2.6,Looking for new job
+T086,3.2,Looking for new job
+T119,3.6,Health reasons
+T197,1.1,Looking for new job
+T066,3.4,Looking for new job
+T103,2.9,Health reasons
+T090,4.5,Relocation
+T159,1.9,Personal reasons
+T186,2.4,Contract ended
+T006,4.1,Personal reasons
+T182,3.3,Personal reasons
+T186,4.0,Health reasons
+T146,4.0,Personal reasons
+T036,1.3,Contract ended
+T027,4.6,Looking for new job
+T090,1.8,Higher studies
+T046,3.1,Personal reasons
+T193,4.6,Health reasons
+T192,3.0,Looking for new job
+T074,2.5,Higher studies
+T196,2.2,Looking for new job
+T031,1.6,Personal reasons
+T032,4.6,Looking for new job
+T143,3.2,Higher studies
+T109,4.9,Contract ended
+T093,3.1,Health reasons
+T107,1.1,Looking for new job
+T070,1.9,Health reasons
+T170,2.3,Higher studies
+T033,3.1,Looking for new job
+T130,4.0,Health reasons
+T159,3.2,Higher studies
+T133,2.4,Relocation
+T136,4.8,Contract ended
+T136,3.2,Looking for new job
+T012,1.1,Personal reasons
+T084,4.0,Looking for new job
+T186,3.8,Contract ended
+T105,4.0,Health reasons
+T142,2.6,Personal reasons
+T083,1.4,Looking for new job
+T184,3.7,Relocation
+T068,2.9,Personal reasons
+T161,2.9,Personal reasons
+T122,4.1,Looking for new job
+T051,4.5,Health reasons
+T074,4.6,Looking for new job
+T016,3.6,Health reasons
+T181,3.0,Higher studies
+T037,4.9,Looking for new job
+T097,4.3,Personal reasons
+T196,1.6,Higher studies
+T101,3.0,Looking for new job
+T184,3.1,Contract ended
+T106,4.1,Relocation
+T080,2.7,Relocation
+T077,1.8,Contract ended
+T093,1.1,Personal reasons
+T134,3.9,Health reasons
+T016,1.6,Relocation
+T015,2.8,Contract ended
+T165,2.9,Contract ended
+T033,1.4,Personal reasons
+T078,3.6,Higher studies
+T115,4.3,Personal reasons
+T147,2.6,Personal reasons
+T159,1.0,Relocation
+T088,1.1,Contract ended
+T132,1.8,Relocation
+T040,2.5,Personal reasons
+T159,2.8,Relocation
+T050,3.0,Relocation
+T061,2.3,Higher studies
+T136,4.9,Higher studies
+T132,4.1,Higher studies
+T086,3.0,Contract ended
+T134,1.4,Looking for new job
+T088,4.0,Looking for new job
+T150,4.0,Looking for new job
+T027,1.9,Contract ended
+T069,2.4,Health reasons
+T128,2.3,Contract ended
+T051,4.1,Personal reasons
+T008,2.3,Looking for new job
+T127,1.9,Looking for new job
+T158,1.3,Higher studies
+T077,3.5,Contract ended
+T122,4.4,Relocation
+T045,2.5,Contract ended
+T065,2.1,Looking for new job
+T015,2.9,Contract ended
+T144,2.7,Personal reasons
+T186,3.4,Contract ended
+T034,3.3,Relocation
+T122,4.8,Relocation
+T033,3.2,Health reasons
+T026,4.8,Looking for new job
+T092,4.7,Higher studies
+T125,4.8,Health reasons
+T150,1.6,Looking for new job
+T194,5.0,Personal reasons
+T037,3.5,Health reasons
+T034,2.0,Contract ended
+T067,2.4,Looking for new job
+T186,1.9,Contract ended
+T189,1.4,Personal reasons
+T043,4.3,Contract ended
+T034,2.3,Personal reasons
+T144,3.9,Relocation
+T169,1.2,Relocation
+T077,2.1,Health reasons
+T068,4.7,Health reasons
+T042,3.7,Looking for new job
+T107,4.9,Health reasons
+T146,3.5,Looking for new job
+T090,2.9,Looking for new job
+T055,3.6,Relocation
+T050,1.8,Contract ended
+T083,4.2,Higher studies
+T078,2.4,Higher studies
+T191,3.5,Personal reasons
+T084,1.7,Personal reasons
+T041,4.5,Looking for new job
+T020,3.5,Personal reasons
+T136,1.5,Contract ended
+T026,2.2,Relocation
+T176,2.5,Health reasons
+T174,4.1,Health reasons
+T039,3.9,Contract ended
+T173,3.6,Higher studies
+T157,1.0,Looking for new job
+T060,3.3,Higher studies
+T089,3.9,Health reasons
+T092,4.5,Health reasons
+T053,1.6,Looking for new job
+T058,2.5,Looking for new job
+T200,3.8,Personal reasons
+T125,4.4,Health reasons
+T054,3.6,Contract ended
+T011,2.5,Personal reasons
+T078,2.9,Health reasons
+T105,1.8,Contract ended
+T103,3.7,Looking for new job
+T088,1.1,Contract ended
+T003,1.1,Looking for new job
+T151,1.4,Contract ended
+T166,3.6,Higher studies
+T131,3.7,Looking for new job
+T134,1.7,Health reasons
+T182,3.8,Personal reasons
+T079,2.7,Relocation
+T141,1.5,Looking for new job
+T083,1.3,Looking for new job
+T173,2.4,Contract ended
+T108,2.4,Health reasons
+T090,3.5,Looking for new job
+T071,4.8,Personal reasons
+T001,2.0,Looking for new job
+T161,2.4,Relocation
+T066,4.4,Personal reasons
+T034,4.7,Personal reasons
+T085,4.2,Contract ended
+T016,4.1,Personal reasons
+T032,1.1,Contract ended
+T121,4.9,Contract ended
+T060,2.8,Contract ended
+T091,2.2,Higher studies
+T026,1.2,Personal reasons
+T096,2.0,Contract ended
+T067,1.5,Personal reasons
+T020,2.8,Looking for new job
+T076,3.9,Higher studies
+T179,4.8,Relocation
+T101,4.3,Relocation
+T182,2.0,Health reasons
+T178,1.3,Personal reasons
+T117,3.4,Health reasons
+T101,3.4,Higher studies
+T148,2.6,Higher studies
+T131,2.1,Personal reasons
+T134,3.8,Relocation
+T076,3.1,Health reasons
+T010,4.3,Looking for new job
+T167,3.3,Contract ended
+T148,4.1,Looking for new job
+T021,1.9,Health reasons
+T186,2.1,Contract ended
+T099,4.6,Relocation
+T022,1.4,Health reasons
+T160,1.6,Personal reasons
+T020,1.0,Relocation
+T110,2.0,Contract ended
+T048,4.5,Health reasons
+T179,2.2,Contract ended
+T198,4.9,Personal reasons
+T186,4.1,Higher studies
+T076,2.0,Health reasons
+T053,1.0,Personal reasons
+T031,3.8,Relocation
+T150,4.2,Contract ended
+T011,1.6,Looking for new job
+T155,3.4,Looking for new job
+T076,4.0,Contract ended
+T132,2.7,Health reasons
+T034,4.6,Relocation
+T075,2.9,Contract ended
+T057,5.0,Contract ended
+T119,4.8,Personal reasons
+T092,4.9,Relocation
+T029,4.7,Higher studies
+T029,4.2,Health reasons
+T155,1.6,Higher studies
+T068,2.1,Health reasons
+T094,5.0,Contract ended
+T186,1.1,Relocation
+T126,3.5,Contract ended
+T108,4.7,Health reasons
+T047,1.5,Personal reasons
+T119,4.8,Health reasons
+T034,3.6,Relocation
+T005,1.2,Looking for new job
+T157,4.6,Contract ended
+T196,2.2,Relocation
+T045,2.9,Personal reasons
+T143,1.1,Relocation
+T090,2.7,Higher studies
+T167,4.9,Health reasons
+T014,3.0,Personal reasons
+T196,3.1,Looking for new job
+T076,1.3,Contract ended
+T079,2.1,Health reasons
+T090,2.0,Contract ended
+T121,4.6,Personal reasons
+T060,3.3,Personal reasons
+T039,4.1,Contract ended
+T084,1.8,Relocation
+T057,4.9,Contract ended
+T023,4.6,Looking for new job
+T082,2.4,Looking for new job
+T143,2.6,Higher studies
+T114,3.9,Health reasons
+T167,1.6,Contract ended
+T098,1.3,Higher studies
+T011,3.8,Relocation
+T157,2.6,Health reasons
+T100,2.3,Looking for new job
+T159,2.5,Higher studies
+T161,1.7,Higher studies
+T027,1.2,Health reasons
+T142,2.3,Contract ended
+T174,3.9,Contract ended
+T047,2.5,Higher studies
+T010,1.1,Contract ended
+T124,4.0,Relocation
+T022,3.8,Personal reasons
+T157,3.7,Higher studies
+T082,2.0,Contract ended
+T023,3.5,Health reasons
+T001,4.6,Health reasons
+T121,1.1,Looking for new job
+T144,4.6,Contract ended
+T155,4.0,Looking for new job
+T143,3.8,Health reasons
+T126,2.4,Higher studies
+T158,1.6,Health reasons
+T183,1.3,Looking for new job
+T120,2.4,Health reasons
+T067,2.5,Relocation
+T024,2.6,Health reasons
+T128,3.3,Higher studies
+T184,4.6,Contract ended
+T147,5.0,Contract ended
+T161,2.5,Personal reasons
+T065,3.9,Higher studies
+T155,1.3,Personal reasons
+T017,2.2,Higher studies
+T158,2.5,Relocation
+T142,2.1,Looking for new job
+T179,4.9,Relocation
+T036,1.8,Personal reasons
+T188,3.7,Personal reasons
+T157,1.0,Looking for new job
+T053,4.9,Relocation
+T029,4.3,Higher studies
+T066,3.3,Looking for new job
+T013,4.2,Higher studies
+T060,3.2,Relocation
+T034,2.9,Looking for new job
+T046,2.6,Higher studies
+T131,2.7,Relocation
+T147,4.6,Health reasons
+T128,4.6,Personal reasons
+T176,1.5,Looking for new job
+T188,3.2,Relocation
+T005,2.6,Looking for new job
+T046,1.5,Contract ended
+T198,4.8,Health reasons
+T042,4.3,Contract ended
+T015,4.0,Higher studies
+T054,3.4,Relocation
+T157,2.5,Relocation
+T189,2.7,Health reasons
+T179,5.0,Contract ended
+T017,2.5,Higher studies
+T114,1.8,Health reasons
+T129,2.8,Health reasons
+T006,4.3,Relocation
+T186,4.2,Contract ended
+T129,1.2,Contract ended
+T041,3.7,Contract ended
+T120,4.2,Health reasons
+T025,4.1,Personal reasons
+T136,4.1,Personal reasons
+T184,4.1,Contract ended
+T127,2.2,Contract ended
+T096,3.8,Personal reasons
+T121,3.5,Higher studies
+T060,1.9,Looking for new job
+T055,2.4,Higher studies
+T068,4.8,Personal reasons
+T074,4.1,Personal reasons
+T047,4.3,Personal reasons
+T173,1.5,Personal reasons
+T126,4.9,Health reasons
+T181,2.5,Looking for new job
+T059,1.1,Personal reasons
+T098,3.7,Looking for new job
+T064,4.4,Looking for new job
+T053,4.4,Relocation
+T096,1.7,Higher studies
+T075,1.1,Personal reasons
+T079,1.2,Contract ended
+T160,4.5,Higher studies
+T015,1.4,Contract ended
+T098,2.6,Looking for new job
+T009,4.7,Contract ended
+T199,1.1,Personal reasons
+T049,3.1,Looking for new job
+T136,3.4,Higher studies
+T094,4.8,Personal reasons
+T032,1.3,Relocation
+T040,1.8,Contract ended
+T047,1.7,Contract ended
+T168,3.3,Relocation
+T127,2.4,Contract ended
+T054,4.3,Contract ended
+T054,1.9,Relocation
+T016,4.6,Personal reasons
+T029,4.5,Relocation
+T170,4.8,Personal reasons
+T091,3.9,Health reasons
+T156,4.8,Health reasons
+T167,3.6,Relocation
+T140,4.0,Higher studies
+T105,3.6,Higher studies
+T018,3.9,Personal reasons
+T164,2.6,Looking for new job
+T184,2.7,Higher studies
+T048,3.3,Contract ended
+T118,2.4,Relocation
+T191,4.1,Higher studies
+T115,2.3,Contract ended
+T102,1.9,Health reasons
+T194,3.8,Health reasons
+T120,1.4,Looking for new job
+T041,2.7,Contract ended
+T017,3.3,Looking for new job
+T048,2.3,Contract ended
+T154,4.2,Looking for new job
+T119,1.4,Personal reasons
+T146,3.9,Relocation
+T073,1.3,Relocation
+T113,1.1,Relocation
+T192,4.0,Personal reasons
+T161,3.6,Contract ended
+T052,2.6,Relocation
+T048,1.7,Relocation
+T048,4.4,Contract ended
+T100,4.4,Health reasons
+T112,3.3,Contract ended
+T135,3.1,Contract ended
+T011,5.0,Personal reasons
+T050,1.6,Higher studies
+T077,1.5,Personal reasons
+T188,3.9,Personal reasons
+T197,3.2,Health reasons
+T117,4.7,Higher studies
+T049,2.1,Contract ended
+T084,2.5,Relocation
+T039,3.0,Health reasons
+T121,1.0,Health reasons
+T014,5.0,Contract ended
+T051,3.1,Contract ended
+T007,4.0,Looking for new job
+T097,3.0,Contract ended
+T071,4.9,Relocation
+T101,1.8,Looking for new job
+T094,1.6,Looking for new job
+T139,1.1,Health reasons
+T039,1.7,Higher studies
+T140,3.4,Contract ended
+T074,3.6,Health reasons
+T103,1.3,Looking for new job
+T138,2.2,Looking for new job
+T154,2.7,Contract ended
+T200,2.9,Looking for new job
+T178,3.0,Contract ended
+T074,3.8,Health reasons
+T044,1.2,Relocation
+T115,3.6,Looking for new job
+T001,4.8,Health reasons
+T076,1.9,Looking for new job
+T062,3.8,Contract ended
+T173,4.9,Relocation
+T103,2.3,Higher studies
+T096,4.7,Contract ended
+T140,1.2,Contract ended
+T180,5.0,Higher studies
+T197,4.9,Relocation
+T156,4.0,Looking for new job
+T019,3.2,Contract ended
+T139,3.9,Looking for new job
+T112,1.1,Relocation
+T141,4.7,Contract ended
+T019,4.6,Health reasons
+T167,3.2,Contract ended
+T029,1.9,Health reasons
+T032,3.0,Contract ended
+T158,2.4,Personal reasons
+T174,4.6,Looking for new job
+T101,4.2,Contract ended
+T178,3.6,Relocation
+T070,3.1,Higher studies
+T142,3.7,Relocation
+T175,4.2,Contract ended
+T193,4.6,Relocation
+T138,2.2,Looking for new job
+T105,4.3,Relocation
+T118,4.8,Relocation
+T199,2.7,Looking for new job
+T192,3.6,Health reasons
+T166,4.2,Contract ended
+T164,3.5,Health reasons
+T071,3.0,Relocation
+T024,4.2,Relocation
+T090,2.3,Personal reasons
+T190,1.4,Health reasons
+T104,3.8,Relocation
+T099,4.2,Personal reasons
+T031,4.2,Higher studies
+T117,1.2,Looking for new job
+T069,1.6,Looking for new job
+T003,4.6,Personal reasons
+T026,4.5,Contract ended
+T149,4.7,Looking for new job
+T076,2.2,Contract ended
+T138,1.6,Higher studies
+T179,4.3,Contract ended
+T075,3.4,Looking for new job
+T047,3.7,Relocation
+T168,3.2,Health reasons
+T154,1.4,Contract ended
+T084,1.7,Looking for new job
+T017,3.6,Contract ended
+T006,4.2,Health reasons
+T079,4.4,Contract ended
+T014,4.0,Looking for new job
+T133,3.2,Looking for new job
+T069,2.3,Contract ended
+T018,3.1,Higher studies
+T066,1.5,Contract ended
+T140,3.1,Relocation
+T025,4.4,Contract ended
+T082,1.1,Higher studies
+T116,2.3,Health reasons
+T185,2.2,Health reasons
+T147,2.5,Higher studies
+T009,3.1,Relocation
+T010,4.4,Health reasons
+T053,1.4,Personal reasons
+T125,1.7,Relocation
+T050,4.0,Contract ended
+T196,2.4,Higher studies
+T083,2.1,Personal reasons
+T063,4.8,Contract ended
+T138,2.8,Contract ended
+T053,4.0,Health reasons
+T091,4.5,Higher studies
+T150,3.9,Higher studies
+T017,4.1,Looking for new job
+T031,3.6,Relocation
+T148,4.0,Personal reasons
+T121,2.8,Personal reasons
+T038,1.5,Higher studies
+T152,3.1,Personal reasons
+T027,5.0,Health reasons
+T100,2.6,Personal reasons
+T074,1.0,Higher studies
+T184,2.5,Personal reasons
+T178,1.1,Looking for new job
+T016,1.4,Looking for new job
+T146,2.2,Looking for new job
+T077,3.2,Health reasons
+T086,4.0,Relocation
+T043,4.5,Contract ended
+T044,1.8,Health reasons
+T098,4.3,Higher studies
+T035,2.0,Higher studies
+T126,3.1,Health reasons
+T058,1.5,Higher studies
+T034,2.0,Personal reasons
+T081,1.2,Health reasons
+T119,1.4,Higher studies
+T072,3.1,Relocation
+T176,2.1,Relocation
+T017,1.3,Contract ended
+T173,4.8,Health reasons
+T176,3.8,Relocation
+T149,3.8,Higher studies
+T165,1.4,Personal reasons
+T193,3.3,Higher studies
+T170,3.8,Personal reasons
+T010,3.5,Relocation
+T119,1.1,Looking for new job
+T126,4.4,Health reasons
+T119,2.1,Contract ended
+T035,2.5,Health reasons
+T128,1.6,Looking for new job
+T192,2.1,Looking for new job
+T014,4.1,Contract ended
+T055,1.7,Higher studies
+T075,3.1,Personal reasons
+T056,3.3,Personal reasons
+T067,2.7,Looking for new job
+T106,3.3,Higher studies
+T129,4.3,Health reasons
+T105,3.2,Contract ended
+T118,4.6,Higher studies
+T176,1.4,Contract ended
+T156,2.3,Personal reasons
+T082,2.7,Relocation
+T151,3.5,Personal reasons
+T126,1.8,Personal reasons
+T069,2.5,Relocation
+T001,1.8,Contract ended
+T188,2.9,Health reasons
+T088,2.9,Contract ended
+T040,1.8,Higher studies
+T063,1.6,Higher studies
+T124,4.3,Health reasons
+T103,4.0,Higher studies
+T193,4.0,Higher studies
+T085,1.3,Relocation
+T068,1.4,Personal reasons
+T025,3.3,Higher studies
+T167,1.0,Contract ended
+T020,2.1,Higher studies
+T128,2.6,Personal reasons
+T037,3.8,Personal reasons
+T151,3.9,Personal reasons
+T171,4.6,Contract ended
+T020,3.5,Higher studies
+T080,2.6,Health reasons
+T126,1.5,Relocation
+T192,2.1,Contract ended
+T139,1.9,Health reasons
+T135,3.5,Contract ended
+T173,1.4,Contract ended
+T084,2.1,Relocation
+T093,3.5,Higher studies
+T178,2.9,Health reasons
+T106,4.4,Personal reasons
+T021,1.6,Health reasons
+T123,2.8,Higher studies
+T038,3.7,Looking for new job
+T191,1.8,Contract ended
+T078,1.1,Health reasons
+T032,4.7,Health reasons
+T113,3.0,Higher studies
+T044,3.9,Relocation
+T184,3.0,Looking for new job
+T183,1.4,Relocation
+T063,3.7,Health reasons
+T100,1.0,Higher studies
+T095,4.1,Health reasons
+T044,4.7,Contract ended
+T074,3.9,Personal reasons
+T026,3.4,Contract ended
+T048,1.0,Looking for new job
+T113,2.0,Looking for new job
+T152,3.4,Looking for new job
+T103,2.2,Relocation
+T131,4.3,Higher studies
+T144,2.8,Health reasons
+T141,4.4,Contract ended
+T126,1.2,Personal reasons
+T110,3.2,Contract ended
+T006,1.4,Contract ended
+T076,4.6,Higher studies
+T122,4.6,Contract ended
+T035,3.6,Contract ended
+T009,2.6,Higher studies
+T092,4.2,Relocation
+T169,3.1,Health reasons
+T174,4.3,Personal reasons
+T055,2.8,Personal reasons
+T046,2.5,Contract ended
+T184,4.4,Relocation
+T148,4.0,Looking for new job
+T145,2.1,Looking for new job
+T014,2.7,Looking for new job
+T027,3.8,Looking for new job
+T032,3.2,Contract ended
+T141,2.7,Health reasons
+T116,4.0,Looking for new job
+T101,3.4,Higher studies
+T107,2.0,Health reasons
+T176,2.1,Personal reasons
+T033,4.5,Higher studies
+T164,1.6,Relocation
+T144,3.8,Higher studies
+T115,4.5,Looking for new job
+T053,2.2,Relocation
+T129,2.0,Personal reasons
+T114,1.8,Health reasons
+T080,2.3,Health reasons
+T049,4.8,Health reasons
+T104,4.3,Contract ended
+T038,4.7,Relocation
+T060,2.1,Health reasons
+T091,2.7,Relocation
+T156,4.7,Relocation
+T005,3.2,Health reasons
+T020,3.2,Health reasons
+T074,1.4,Higher studies
+T073,4.5,Health reasons
+T159,1.6,Relocation
+T100,4.8,Health reasons
+T026,4.1,Health reasons
+T188,2.1,Personal reasons
+T092,4.2,Looking for new job
+T111,4.2,Higher studies
+T028,2.3,Relocation
+T182,2.3,Health reasons
+T006,2.8,Health reasons
+T151,3.9,Higher studies
+T092,4.1,Looking for new job
+T179,1.9,Looking for new job
+T139,4.4,Relocation
+T058,2.1,Contract ended
+T157,4.3,Looking for new job
+T114,2.0,Relocation
+T169,3.8,Health reasons
+T153,4.4,Relocation
+T189,2.4,Relocation
+T159,2.5,Personal reasons
+T137,2.1,Contract ended
+T067,2.2,Higher studies
+T190,2.9,Contract ended
+T191,1.5,Looking for new job
+T186,3.0,Contract ended
+T029,1.6,Health reasons
+T099,2.4,Personal reasons
+T048,2.1,Looking for new job
+T042,4.5,Health reasons
+T054,4.1,Contract ended
+T134,3.2,Higher studies
+T059,4.4,Higher studies
+T154,4.3,Relocation
+T190,4.8,Health reasons
+T150,2.4,Personal reasons
+T123,3.0,Contract ended
+T044,1.8,Looking for new job
+T121,4.5,Looking for new job
+T061,4.6,Personal reasons
+T158,4.0,Looking for new job
+T008,2.5,Looking for new job
+T063,2.8,Personal reasons
+T077,4.9,Looking for new job
+T119,1.4,Health reasons
+T071,1.4,Relocation
+T118,4.0,Personal reasons
+T116,3.1,Higher studies
+T125,2.4,Health reasons
+T067,2.9,Contract ended
+T106,1.7,Contract ended
+T101,3.4,Relocation
+T049,3.0,Relocation
+T166,3.2,Relocation
+T069,1.1,Looking for new job
+T188,2.5,Health reasons
+T160,4.4,Personal reasons
+T048,4.9,Personal reasons
+T115,4.7,Looking for new job
+T011,1.8,Contract ended
+T092,4.6,Contract ended
+T020,2.9,Relocation
+T089,4.5,Relocation
+T154,2.8,Higher studies
+T079,4.2,Higher studies
+T124,1.2,Personal reasons
+T004,2.2,Contract ended
+T173,4.5,Personal reasons
+T037,4.0,Relocation
+T008,1.1,Relocation
+T112,2.8,Relocation
+T022,4.3,Contract ended
+T061,4.6,Higher studies
+T141,2.6,Looking for new job
+T123,4.6,Higher studies
+T015,4.6,Higher studies
+T114,1.2,Looking for new job
+T160,2.7,Higher studies
+T036,2.6,Personal reasons
+T090,4.3,Relocation
+T051,2.2,Relocation
+T010,2.1,Personal reasons
+T112,2.2,Relocation
+T026,2.4,Relocation
+T151,2.2,Relocation
+T079,2.7,Higher studies
+T133,2.9,Looking for new job
+T099,4.7,Personal reasons
+T139,3.6,Higher studies
+T198,2.6,Personal reasons
+T098,3.9,Higher studies
+T053,2.1,Relocation
+T045,2.3,Looking for new job
+T029,4.1,Personal reasons
+T067,4.3,Health reasons
+T176,3.6,Contract ended
+T167,1.2,Health reasons
+T078,4.5,Contract ended
+T068,1.7,Contract ended
+T196,1.5,Personal reasons
+T098,3.7,Higher studies
+T149,1.5,Looking for new job
+T093,1.7,Looking for new job
+T148,2.6,Personal reasons
+T092,2.3,Contract ended
+T078,1.6,Contract ended
+T086,4.5,Looking for new job
+T072,2.0,Relocation
+T099,2.8,Higher studies
+T044,1.7,Looking for new job
+T197,4.1,Looking for new job
+T170,3.3,Looking for new job
+T120,2.9,Contract ended
+T168,3.7,Personal reasons
+T199,4.8,Personal reasons
+T041,1.2,Higher studies
+T058,3.5,Higher studies
+T067,4.0,Relocation
+T025,1.7,Looking for new job
+T043,3.4,Health reasons
+T042,1.9,Health reasons
+T124,2.2,Relocation
+T037,1.9,Looking for new job
+T135,3.9,Higher studies
+T056,3.9,Personal reasons
+T098,3.0,Relocation
+T005,4.5,Personal reasons
+T199,2.2,Looking for new job
+T006,4.1,Higher studies
+T026,2.7,Looking for new job
+T066,2.8,Looking for new job
+T072,2.1,Contract ended
+T105,4.1,Health reasons
+T163,3.8,Looking for new job
+T140,3.8,Relocation
+T165,3.9,Higher studies
+T077,3.0,Health reasons
+T157,3.1,Higher studies
+T199,2.9,Health reasons
+T046,3.9,Relocation
+T058,1.5,Relocation
+T053,4.7,Looking for new job
+T002,4.7,Higher studies
+T134,1.4,Health reasons
+T177,2.6,Looking for new job
+T044,3.9,Personal reasons
+T033,3.5,Personal reasons
+T166,3.7,Higher studies
+T116,2.8,Personal reasons
+T140,1.3,Personal reasons
+T075,3.6,Personal reasons
+T054,2.1,Personal reasons
+T111,1.4,Relocation
+T087,3.6,Contract ended
+T088,4.8,Personal reasons
+T113,2.4,Higher studies
+T140,4.9,Relocation
+T017,3.1,Personal reasons
+T030,4.9,Looking for new job
+T109,3.4,Personal reasons
+T008,1.2,Relocation
+T119,2.3,Higher studies
+T086,3.3,Personal reasons
+T020,4.0,Contract ended
+T125,4.5,Higher studies
+T192,2.0,Contract ended
+T143,4.9,Personal reasons
+T167,1.7,Higher studies
+T026,3.0,Higher studies
+T073,3.2,Personal reasons
+T101,3.4,Contract ended
+T018,1.9,Personal reasons
+T092,2.4,Personal reasons
+T002,4.6,Contract ended
+T017,3.9,Relocation
+T087,2.1,Relocation
+T158,4.8,Higher studies
+T105,2.5,Higher studies
+T019,2.5,Higher studies
+T105,3.6,Personal reasons
+T018,1.4,Health reasons
+T162,3.7,Personal reasons
+T072,2.2,Health reasons
+T111,2.2,Higher studies
+T189,4.8,Contract ended
+T066,2.5,Health reasons
+T183,2.1,Higher studies
+T070,3.2,Higher studies
+T156,4.1,Contract ended
+T035,2.9,Higher studies
+T139,4.6,Contract ended
+T033,2.1,Relocation
+T157,4.6,Higher studies
+T073,4.5,Personal reasons
+T150,2.4,Health reasons
+T145,1.1,Contract ended
+T151,2.6,Higher studies
+T079,4.3,Looking for new job
+T123,1.6,Health reasons
+T028,1.4,Looking for new job
+T039,3.9,Higher studies
+T132,4.7,Higher studies
+T032,4.6,Contract ended
+T114,2.6,Relocation
+T187,3.3,Relocation
+T026,1.9,Relocation
+T004,4.5,Higher studies
+T164,4.3,Looking for new job
+T076,2.4,Relocation
+T020,3.0,Looking for new job
+T162,1.9,Looking for new job
+T139,5.0,Relocation
+T015,2.6,Health reasons
+T042,3.4,Contract ended
+T062,2.5,Health reasons
+T066,1.7,Contract ended
+T070,1.2,Looking for new job
+T037,3.3,Personal reasons
+T128,2.5,Health reasons
+T100,4.2,Personal reasons
+T028,2.0,Personal reasons
+T017,3.9,Higher studies
+T015,1.4,Contract ended
+T199,3.2,Looking for new job
+T134,4.5,Personal reasons
+T092,2.2,Personal reasons
+T114,3.9,Health reasons
+T024,1.2,Health reasons
+T107,2.0,Higher studies
+T144,1.4,Personal reasons
+T023,4.2,Health reasons
+T148,3.6,Relocation
+T098,2.3,Health reasons
+T009,3.2,Higher studies
+T163,4.0,Looking for new job
+T186,2.1,Relocation
+T046,1.6,Health reasons
+T173,3.8,Health reasons
+T184,3.8,Looking for new job
+T012,4.1,Contract ended
+T035,2.7,Personal reasons
+T173,4.8,Contract ended
+T138,2.5,Personal reasons
+T094,3.9,Personal reasons
+T011,4.6,Health reasons
+T009,1.4,Personal reasons
+T068,3.0,Personal reasons
+T094,2.5,Looking for new job
+T200,1.6,Health reasons
+T053,3.9,Personal reasons
+T001,4.5,Relocation
+T115,3.1,Looking for new job
+T069,1.2,Personal reasons
+T124,3.7,Looking for new job
+T106,1.3,Higher studies
