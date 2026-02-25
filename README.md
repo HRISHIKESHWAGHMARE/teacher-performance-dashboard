@@ -1,3 +1,4 @@
+
 # Teacher Performance Dashboard
 
 This project is a dashboard replication and enhancement task completed as part of a Data Analyst hiring assignment.  
@@ -43,9 +44,6 @@ The original dashboard was built in R Shiny and has been recreated using Python.
 - Late count is aggregated monthly
 - Attrition score above 3.5 indicates high risk
 
----
 
-## How to Run the Project
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+
+
