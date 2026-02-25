@@ -4,7 +4,7 @@ import plotly.express as px
 from utils.data_loader import get_master_dataset
 from utils.metrics import (
     total_teachers,
-    total_evaluations,
+    total_evaluation,
     average_score,
     performance_percentage
 )
@@ -24,7 +24,7 @@ def calculate_kpis(df):
     """
     return {
         "total_teachers": total_teachers(df),
-        "total_evaluations": total_evaluations(df),
+        "total_evaluations": total_evaluation(df),
         "average_score": average_score(df),
         "performance_pct": performance_percentage(df)
     }
@@ -68,3 +68,7 @@ def section_wise_performance(df):
     )
 
     return fig
+
+if __name__ == "__main__":
+    df = load_dashboard_data
+    print(calculate_kpis(df))
